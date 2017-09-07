@@ -17,7 +17,6 @@ function objToSql(ob){
   for (var key in ob) {
     arr.push(key + '=' + ob[key]);
   };
-
   return arr.toString();
 };
 
@@ -60,4 +59,4 @@ var orm = {
 	}
 };
 
-module.exports=orm;
+module.exports=orm; 
