@@ -22,6 +22,3 @@ npm packages used
 	*mysql
 
 
-App deployed: 
-
-https://murmuring-brushlands-46912.herokuapp.com/burgers
